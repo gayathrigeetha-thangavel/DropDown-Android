@@ -51,6 +51,7 @@ public class MainActivity extends AppCompatActivity {
     {
         algorithmItems = new ArrayList<>();
         algorithmItems.add(new AlgItem("Quick Sort"));
+        algorithmItems.add(new AlgItem("Fibonacci series"));
         algorithmItems.add(new AlgItem("Merge Sort"));
         algorithmItems.add(new AlgItem("Heap Sort"));
         algorithmItems.add(new AlgItem("Prims Algorithm"));
